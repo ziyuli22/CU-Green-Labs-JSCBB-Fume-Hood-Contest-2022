@@ -1,0 +1,146 @@
+Hood Number	Floor	Wing	SliderP1	SashP1	SliderP2	SashP2	Slider1	Sash1	Comment1	Slider2	Sash2	Comment2	Slider3	Sash3	Comment3	Slider4	Sash4	Comment4	Slider5	Sash5	Comment5	Slider6	Sash6	Comment6	Slider7	Sash7	Comment7	Slider8	Sash8	Comment8	Slider9	Sash9	Comment9
+625	1	C	17.75	1.2	24.5	0	1.25	0		0	0		12	0		0.75	0		0	0		0	0		NA	NA		28	0		0.25	0	
+626	1	C	1	0	0	0	2.5	0		0	0		0	0		22	0		0	0	In Use	14	0		NA	NA		0	2		0	0	
+627	1	C	26.25	0.5	24	0.5	1	0		20	0		0.5	0.5		1	0		0	0	In Use	0.5	0		NA	NA		0	0		0	0	In Use
+628	1	C	11.25	4.5	0	1.5	0.5	0		1	0		1.5	6		6.5	0		0	0		1	0		NA	NA		0	0		1.25	0.75	
+621	1	C	0	0	0.5	0	0.25	0		0	0		2.75	0		0	0		0	0		0	0		NA	NA		0	0		0	0	
+622	1	C	0	0	0	0	1.5	0		1	0		1.75	0		12	0		0	0		0	0		NA	NA		0	0		0	0	
+623	1	C	0	0.5	0	0	0	0		0	0		0	0		0	0		0	0		0	0		NA	NA		0	0		0	0	
+624	1	C	4.5	0.4	0	0	2	0		0	0		1.75	0		0	0		0	0		0	0		NA	NA		0	0		0	0	
+640	1	C	0	0	0	0	0	0	Obstructed	6	0		0	0		0	0		0	0		NA	NA	Locked/Inaccessible	NA	NA		0	0		0	0	
+641	1	C	0	0	0	0	1.5	0.5		0	0		0.75	0		3.25	0		0.75	0		1	0		NA	NA		0.5	0		0.25	0.5	
+642	1	C	0	0	0	0	4	1		0	0		0	0		0	0		0	1		0.5	1.5		NA	NA		0	0		1.25	0	
+639	1	C	3.75	0	0	0	0	0.75		0	0		0	0		0	0		0	0		NA	NA	Locked/Inaccessible	NA	NA		0	0		0	0.25	
+629	1	C	29.25	0.8	20	0	0	0.25		15.2	0		0	0		19	1.5		0	0	In Use	0	0		NA	NA		0	0		0	0	In Use
+630	1	C	3.25	0.5	11	0	0.25	0.25		0	0		0	1		0	0		0	0		0	0		NA	NA		2	0		0	0.5	
+631	1	C	3.25	0	0	0	1.25	0.75		1.5	0		0	0		0	0		0	0		0	0		NA	NA		0	0		0.5	0	
+632	1	C	26.5	1.5	12	2	0.75	1		1.75	0		0.75	0		3	0		2.5	0		2	0		NA	NA		0.5	0		0.75	0	
+633	1	C	25	0	0	0	0	0	In Use	0	0	In Use	0	0		0.5	0		0	0		0	0		NA	NA		0.5	0		0.25	0	
+634	1	C	27	0.3	13	0	0	0	In Use	0	0	In Use	0	0		0	0		0.5	0		3.5	0		NA	NA		1	0		0	0.25	
+635	1	C	29	0	2	2	1.25	0.75		2	0		0	0	In Use	0	0	In Use	1.5	0		1	0		NA	NA		4	0		1.5	0	
+636	1	C	26.75	0	0.5	0	1.75	0		2	0		14.75	0		0	0		0	0		0	0		NA	NA		1	0		11.75	0	
+609	1	D	0	3	5	2	27.75	2		0	0		25.75	2		18	2		0	1		0	1.5		0	1		0	2.5		1.75	0	
+610	1	D	20	4.1	0	4	26.5	3.5		0	4		27.75	3.5		20.5	4		0	0	In Use	0	2		0	0	In Use	0	3		2.25	0	
+611	1	D	1	4.5	3	3	20	2.25		0	0		3.25	4		3.5	3		0	4		0	3		1	3.5		0	3		2.25	2.25	
+612	1	D	0	1.5	0.5	2	0	13.25		0	0		3	2		3	2		1	3		0	2.5		1	3		2	2		2.25	1.75	
+613	1	D	26.5	0.5	28	1	26.75	0.5		0	0.5		0.5	1		1	0		0	1		12	0		17	0.5		0	0	In Use	6	0.5	
+614	1	D	27.25	1.5	27	1	0.25	0.5		8	1.5		10	1		1	1		0	1		28	0		25	0.5		0	0		0.25	1	
+603	1	D	0	0	4.4	0	1	0		0	0		0.75	0		1	0		0	0		0	0		0	0		0	0		0.5	0	
+604	1	D	0	0	0	0	0.25	0		0	0		0	0		0	0		0	0	In Use	0	0		0	0		0	0		0	0	
+618	1	D	28.75	0.25	0	0	27.75	0.5		2	6		26.5	1	In Use	2.5	2		0	0		27	0		0	0	In Use	0.5	0		1	0.25	
+620	1	D	34.25	0	0	0	23	0		16.75	0		1.5	0		1.5	0		0	1		40	0		2	0		0	0		1.25	0	
+615	1	D	0	0	0	0	0	1.25		17.25	0		11.75	0		5	0		0	1		3	0		0	0	In Use	5	0		3	0.25	
+616	1	D	1	0	0	0	2	0.5		3.5	0		2.75	0.5		11.5	0		1.5	0		1	0		0.75	0		0.5	0		0	0.25	
+617	1	D	11	0	23	0	0	1		1.25	0		13.25	0		1.5	0		0	0	In Use	3	0		4	0		7	0		3.25	0	
+619	1	D	28	0.5	27	1.5	0.25	0.25		12.25	0		0.5	0.5		2.5	0		0	0.5		1	0		6	0.75		0	0	In Use	0.25	0.5	
+605	1	D	19.5	2	36	0	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessable	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+606	1	D	6.5	1.5	0	0	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessable	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+607	1	D	4	0	0	0	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessable	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+608	1	D	12.5	0	0	0	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessable	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+715	1	E	0	7.9	0	9.5	1.5	0		0	0		14.25	0		0	0		0	0		0	0		0	0	In Use	0	0		0	0.25	
+951	1	E	0	0	0	9.5	0	2.25		NA	NA	Company	NA	NA		NA	NA	Company	NA	NA	Company	NA	NA	Company	NA	NA	Company	NA	NA	Company	NA	NA	Company
+952	1	E	0	1.1	0	0	0.25	0		NA	NA	Company	NA	NA		NA	NA	Company	NA	NA	Company	NA	NA	Company	NA	NA	Company	NA	NA	Company	NA	NA	Company
+725	1B	D	21.5	0.5	0	0	0	0.5		0	0		0	0		0	0		0	0		23	0		0	0		1	0		0	0	
+731	1B	D	2.5	0.4	0	0	0	0	Locked/Inaccessible	NA	NA	No Data	0	0.25		0	0	In Use	0	0		0	0		0	3	In Use	0	0		8	0.25	
+732	1B	D	0	20	2	3	0	0		0	0	In Use	0	21		0	0	In Use	0	0	In Use	0	24		0	2		0	17		0	2.5	
+733	1B	D	0	20	2	4	0	0	In Use	0	0	In Use	0	17	In Use	0	0	In Use	0	5		0	0	In Use	0	2		0	23.5		0	0.25	
+734	1B	D	0	0	0	0	0	0.5		0	0		4.5	1		0	0	In Use	11	0.5		4	0		4	1.5		1	0		12	0.25	
+735	1B	D	1.5	1.5	3	3	1	1		0.5	0.5		0	1		4.25	1.5		3	1		5	1.5		6	2		0	0		26.5	1	
+736	1B	D	12	2.4	28	2	1	0.25		0	8		1.5	8		0	0		20	0.5		0	0		1	1		1	0		12.5	0.5	
+737	1B	D	1	1.5	19	1.5	26.75	0.75		6	2		7	1		7.25	1.5		6.5	1		6	0		6	1.5		6	0		0	0	In Use
+726	1B	D	20.5	0	0	0	0	0	Locked/Inaccessible	24.75	0		27	0.5		0	0		6	1		3	0		27	0.5		11.5	0		0.5	19	
+727	1B	D	7	0.9	0	0	0	0	Locked/Inaccessible	11.25	0		17	0		19	0		1	0		2	0		1	0.5		11	0		0	11.25	
+740	1B	D	1.5	3	2	3	0	3.5		0	0		1.25	5		0	2		2	7		2	4		1.5	3.5		1.5	3		2.25	1.5	
+742	1B	D	N/A	1.5	0	0	NA	0		NA	0		0	0		0	0		0	0		NA	0		NA	0		NA	0		NA	0	
+743	1B	D	N/A	0	0	12	NA	3		NA	14.5		0	14.5		0	0		0	4		NA	4.5		NA	4		NA	2.5		NA	2.25	
+739	1B	D	N/A	0	0	11	NA	7.25		NA	0		0	9.5		0	0		0	0		NA	0		NA	0		NA	0		NA	0	
+741	1B	D	3.25	1.5	0	4	0	18.75		26.5	0		7.25	2		0	0	In Use	7	3		0	0	In Use	1.5	2		1	1		1	1	
+738	1B	D	N/A	0	NA	0	NA	0		NA	NA	No Data	0	0	Out of Order	0	0	In Use	0	0		NA	0		NA	0		NA	0		NA	0	
+744	1B	D	1	1.5	8	1.5	1.25	0		NA	NA	No Data	8	1.25		0	0	In Use	3	1		0	0		20	0		0	0		0	13.75	
+954	1B	E	N/A	19.5	N/A	15	NA	0.5		NA	17.75		0	0.5		NA	0		NA	9		NA	9		NA	9		NA	18		NA	18.25	
+953	1B	E	N/A	18.5	N/A	16	NA	0.5		NA	0	In Use	0	1		NA	12.5		NA	0		NA	0	In Use	NA	9		NA	3		NA	0.25	
+956	1B	E	N/A	20	N/A	13	NA	0.5		NA	15.5		0	16.75		NA	0	In Use	NA	17.5		NA	18		NA	3		NA	3.5	In Use	NA	0	
+955	1B	E	N/A	16	N/A	12	NA	0.25		NA	13		0	14		NA	0		NA	1		NA	8.5		NA	0.5		NA	0		NA	6.5	
+958	1B	E	N/A	17.5	N/A	13	NA	0.25		NA	0	In Use	0	0	In Use	NA	0		NA	0		NA	0		NA	0.5		NA	0		NA	17	
+957	1B	E	N/A	17.25	N/A	9	NA	0.25		NA	0	In Use	0	12.5		NA	0		NA	13		NA	0		NA	3		NA	0		NA	17.5	
+966	1B	E	N/A	17.75	N/A	2	NA	3.25		NA	7		0	13.5		NA	17.75		NA	6		NA	0	In Use	NA	2		NA	0	In Use	NA	0	
+965	1B	E	N/A	17.75	N/A	17	NA	3.5		NA	0	In Use	0	2.25		NA	13		NA	2		NA	1.5		NA	0	In Use	NA	0	In Use	NA	0.5	
+963	1B	E	N/A	5.25	N/A	3	NA	1.25		NA	9		0	2.5		NA	7		NA	1		NA	0	In Use	NA	5		NA	1		NA	0.75	
+964	1B	E	N/A	17.5	N/A	17	NA	3.25		NA	9		0	10.25		NA	0	In Use	NA	1		NA	0	In Use	NA	0		NA	2		NA	2	
+961	1B	E	N/A	12.5	N/A	13	NA	2.25		NA	2.25		0	2.25		NA	13		NA	2		NA	2.5		NA	12		NA	17		NA	0.5	
+962	1B	E	N/A	11.5	N/A	12	NA	1		NA	2		0	2		NA	7.75		NA	1		NA	0.5		NA	3		NA	1		NA	1	
+959	1B	E	N/A	17	N/A	9	NA	4.24		NA	17.75		0	3.25		NA	5		NA	2		NA	0	In Use	NA	1		NA	6		NA	0	
+960	1B	E	N/A	17	N/A	8.5	NA	5		NA	8.5		0	1.5		NA	9.5		NA	2		NA	0	In Use	NA	1		NA	1		NA	2.25	
+650	1B	E	12.5	0	0	0	0	0		0	0		NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	0		NA	0	Locked/Inaccessible
+967	1B	E	0	8	0	0	0.5	0		0	0		NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	0		NA	0	Locked/Inaccessible
+643	2	A	11	0	28	2	1.5	0		1	0		1	0		1.5	0		0	0		0	0		0	0		0	0		0	0	
+644	2	A	27.25	0	4	16	0.5	0.25		0	0		0.5	0.5		0.5	0.5		0	0.5		0.5	0.5		0	0		1	1		1.75	0	
+645	2	A	0	0.5	18	0.5	0.25	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0	
+646	2	A	11.5	0	0	0	1.5	0.5		0	0		1	0.5		1	0		0	0		0	18		0	1		0	0		1.5	0	
+647	2	A	1.25	0	0	1.5	0.5	2.5		1	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0	
+648	2	A	0	0	0	0	0	0		0	0		0	0		1.5	0		0	0		0	0		0	0		0	0		0	0	
+651	2	A	0	15.5	2.25	1	2	1.5		2	0		2	0		2	0		0	0		0	0		0	0		0.5	2		0	0	
+652	2	A	21.5	14.7	4.5	1.5	0.5	1.25		4.75	0		5	1		0	1		0	12		0	1.5		0	0		1	2		0	0	
+653	2	A	27.5	0	28	0	3.25	0		1	0		1	0		1	0		0	0		0	0		0	0		0	0		28	0	
+654	2	A	0	4.5	0	3	0	0.25		1	0		0.5	0.5		0	0		0	0		0	1		0	0		0	0		0.5	0	
+655	2	B	0	0	0	0	1	0		1	0		12.25	0		0	0		0	0		0	0		0	0		0	0		0	0	
+656	2	B	2	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0	
+659	2	B	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0	
+660	2	B	0	0	0	0	0.5	0		0	0		0	0		0	0		0	0		0	0		0	0		1	0		0.5	0	
+657	2	B	0	0	0	0	2	0.5		11.5	1.5		1.25	0		0	0		0	0		0	0		0	0		0	0		0	0	
+658	2	B	0	0	0	0	0	0.5		0	0		0	0		0	0		0	0		0	0		0	0		1	0		0	0	
+664	2	C	0	0	0	0	0	0		0	0		0	0	Locked/Inaccessible	0	0		0	0		0	0		0	0		0	0		0	0	
+663	2	C	0	0	0	0	0.75	0.5		0	0		0	0	Locked/Inaccessible	1.25	0		1	0		0	0		0	0		0	0		0	0	
+667	2	C	6.5	0	18.25	0	0	0	In Use	16.5	0		0.75	0		16.25	0		0	0		0	0		0	0		0	0	In Use	0	0	In Use
+668	2	C	0	5	0	8	0.75	1.5		0	2.5		0	0	In Use	0	0		0	3		2.5	1		1.5	2		0	1.5		NA	NA	Locked/Inaccessible
+669	2	C	0	3	0	18.5	2.75	0.5		2.5	0		0	0	In Use	12.25	0		0	2.5		0	1.5		0	3.5		0	1.5		NA	NA	Locked/Inaccessible
+665	2	C	9.5	0.25	9	0	10	0.25		9.75	0		NA	NA	Locked/Inaccessible	9.5	0		6	0		9	0		9	0		9	0		9.25	0	
+666	2	C	14.5	0.5	14.5	0	14.5	0.25		14.25	0		NA	NA	Locked/Inaccessible	14.5	0		14	0		15	0		14	0		14	0		14.5	0	
+670	2	D	0	1.5	8	0	1.25	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0	
+671	2	D	0	0.5	0	0	0	0.5		0	0		0.5	0		0	6		0	0		0	0		0	0		0	0		0	1	
+674	2	D	1	8.5	0	8.5	0	0.25		0	0		0	0.25		0	0		NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+675	2	D	0	0.25	0	0	1	0.25		1.5	0		0.75	0		0	0		NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+676	2	D	0	1	0	1	0	1		0	0.5		0	0.75		0	0		NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+677	2	D	2.5	0	2.5	0	1	0		0	0		0	0		0	0		NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+678	2	D	7	0	1	0	6	0		4.5	0		5.5	0		6	0		NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+679	2	D	27.5	0.5	0	0	1.5	0		0	0		1.25	0		0	0		NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+680	2	D	28.5	1.5	0	0	0	1.5		0	2		0	1		2.5	0		NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+682	2	D	0	0	0	0	1	0.5		0	0		0	0.5		0	0		NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible	NA	NA	Locked/Inaccessible
+683	3	A	0	1	0	0	0	0.25		14.25	0		0	0.25		0	0		0	0		4	3.5		0.75	0		14	0		0	0	
+684	3	A	0	1	0.75	0	1.25	1.5		14.25	0		14.5	1		14.5	0		14	1.5		0	0		0	1		1	0		1	0	
+691	3	A	1.75	0	0	0	1.75	0		0	0		3.25	2		1.25	0		0.75	0		0	0		0	0		1.5	0		2.75	0.5	
+692	3	A	4.75	2	0	0	0.25	0.25		0	0		0	0		0	2		0	0		0	0		0	0		0	0.5		1	0.25	
+693	3	A	0	2	0	0	0.5	0.25		1	0		1.25	0		0	0		0	0		0	0		0	0		0.5	0		1.5	0	
+694	3	A	2	0	2	0	3.75	0		0.5	0		0	0		1.25	0		0	0		0	0		0	0		0.5	0		0.75	0	
+687	3	A	12.75	1.5	0	0	0	0	In Use	5	0		0	0.5		2	0		0	25		0	0		0	0		2	1.5		0	7.75	
+688	3	A	0	0.5	1	1	0	0.5		1	0		4.5	0.5		0	0		0	0	In Use	0	0		0	0		0.5	0		0	0	
+689	3	A	0	0.5	0.25	0	2	0.5		3.25	0		1.25	1		0.75	1		0	0		1	0.5		12	0		1.5	0.5		2	0	
+690	3	A	0	0.25	0	0	4.75	0.5		1.25	1.5		0.75	0.75		0	1		7	0		3	1		2.5	0		2	1		2.75	0	
+686	3	A	0	1	0	1	0	0	In Use	0	0		0	0		0	0		0	0		0	0		11	0		0	0		0	0	
+685	3	A	0	9.5	0	0	0	0	In Use	0	0		0	0		0	0		0	0.75		0	0		0	0		0	0		0	0	
+695	3	B	0	2	0	0	0	2.75		0	2.5		0.5	1.5		0.75	0		0	0		0	0		0	0		0.5	0		0.5	0	
+696	3	B	0	2	0	0	0.75	0		0	2		0	0		0	0		12	0		0	0		0	0		0.5	0		0	0	
+699	3	B	0	0	14.5	0	0	0.5		0	4		0	0		0	0		0	0		0	11.25		0	0		0	0		0.25	0	
+697	3	B	0	0	0	0	0	0.75		NA	NA		0	0	Hazardous Material	NA	NA	Locked/Inaccessible	0	0	Hazerdous Material	0	0		0	0		2	0		0	0.25	
+698	3	B	0	0	0	0	0	0.5		NA	NA		0	0	Hazardous Material	NA	NA	Locked/Inaccessible	0	0	Hazerdous Material	0	0		0	0		2.5	0		0	0.25	
+702	3	B	0	0	2.25	0	0	0.75		0	2		0	0.5		0	0		0	0		0	0		0	0		0	0		0	0.5	
+701	3	B	0	0	0	0	2	0.25		1	0		1.5	0		2	0		1	0		0	4.5		0	4		0	0		0	0	
+703	3	C	1	1	0	0	2.25	0.25		1	2		1	0.5		0	0		0.75	0		0	0		0	0		0	1.5		0	1.5	
+704	3	C	1	1	0	7	0.5	0.75		0.5	3		2	5		0	7.5		0	3.5		0	0		0	2.5		0	2		2	1.75	
+709	3	D	21.25	0	0	0	0	0.25		0	2		0	0		0	0		0	0		0	0		0	0		0	0		0	0	
+710	3	D	0	2.75	2	1	0	0	In Use	0	2		0	1		14	0		0	17		0	0		0	9		0	0		0	0	
+705	3	D	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0	
+706	3	D	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0	
+711	3	D	0	2	0	0	0.5	0		0	0	In Use	0.5	0		0	0		24	0	In Use	10	0		0	0		1	0		0	0	
+712	3	D	0	1	0	0.25	0	0.5		0	2		0	0.5		0	0		3	1		2	1.5		0	0		2	0		0	1.25	
+707	3	D	0	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0	
+708	3	D	1.25	0	0	0	0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	0	
+714	4	A	0	0.5	1.5	0	0	0		0	0		0	0		0	0		NA	NA	Locked/Inaccessible	0	0		0	0		0	0		0	0	
+713	4	A	0	0.25	0	0.5	0	0		0	0		0	0		0	0		NA	NA	Locked/Inaccessible	0	0		0	0		0	0	In Use	0	0	
+716	4	A	0	0	0	0	0	8.5		0	0		0	0		0	0		0	0		0	0		0	0		0	0		0	19.5	
+722	4	B	0	4	0	4	0	16.25		0	2		0.5	0.5		0	0		NA	NA	Locked/Inaccessible	0	0		0	2		0	0		0	0.25	
+723	4	B	0	1	0	0	0	0		1	0		1.5	0		4.5	0		NA	NA	Locked/Inaccessible	0	0		0	0		0	0		0	0	
+718	4	B	0	0	0	13	0	0.5		0	2		0	0		0	0		0	0		0	0		0	0		0	0		0	0	
+719	4	B	0	0	0	0	0.5	1.25		6	1.5		0	0.5		0	0		0	0		0	11.5		0	0		0	0		0	0	
+720	4	B	0	2.5	0	2.5	0	1		0	0		0	0		0	0		0	17		4	0		3	0		0	20		0	1	
+721	4	B	0	1	0	0	0	0.5		0	0		0	1		0	0		0	0		0	0		0	0		0	2		0	21	
